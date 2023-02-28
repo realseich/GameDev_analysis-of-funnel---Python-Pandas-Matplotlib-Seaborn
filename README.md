@@ -1,8 +1,6 @@
 # GameDev_analysis-of-funnel---Python-Pandas-Matplotlib-Seaborn
 Сlass project. 
 
-GameDev, Analysis of funnel. Python with Pandas, Matplotlib and Seaborn
-
 ### About the project  
 - This is one of the projects I made during Data Anlysis course attending.
 - The project got a highest mark. 
